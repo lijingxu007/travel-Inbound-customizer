@@ -78,9 +78,6 @@ This is an OpenClaw skill plugin designed specifically for **Inbound Tourism**. 
 
 如果你已安装 ClawHub CLI，可以直接运行以下命令安装此插件：
 
-```bash
-# 方式 1: 通过 GitHub 用户名/仓库名安装 (推荐)
-clawhub install github:lijingxu007/Travel-Customizer
 
 # 方式 2: 通过完整 Git URL 安装
-https://github.com/lijingxu007/Travel-Customizer.git
+https://github.com/lijingxu007/travel-Inbound-customizer.git
